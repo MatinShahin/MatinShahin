@@ -1,6 +1,25 @@
 # 👋 Hi, I’m Matin Shahin  
 
-Matin is a hard-working, passionate, fast learner and always eager to learn person. He is currently working as a Senior Data Scientist | Senior Machine Learning Engineer | Research Data Scientist | Reservoir Technology Engineer and tries to develop his skills and make himself better every day. Also, Matin is interested in combining his skills in science and entrepreneurship to create innovative solutions to real-world problems and is always eager to explore new tools and technologies to enhance his skillset.  
+Matin is a hard-working, passionate, fast learner and always eager to learn person. He is currently working as a Senior Data Scientist | Senior Machine Learning Engineer | Research Data Scientist | Reservoir Technology Engineer and tries to develop his skills and make himself better every day. Also, Matin is interested in combining his skills in science and entrepreneurship to create innovative solutions to real-world problems and is always eager to explore new tools and technologies to enhance his skillset. 
+
+## 💼 Experience  
+
+Currently, I am working in several roles across different organizations:  
+
+- **PEDEC Company**  
+  - Upstream AI & Digital Transformation Team Lead  
+  - Senior Data Scientist & Senior Machine Learning Engineer  
+
+- **Sharif University of Technology**  
+  - Research Assistant - Research Data Scientist | Reservoir Engineer  
+
+- **DrillAI Company**  
+  - AI Team Lead  
+  - Senior Data Scientist & Senior Machine Learning Engineer  
+  - AI Researcher  
+
+- **Sahand University of Technology**  
+  - Senior Researcher - Research Data Scientist  
 
 ## 🎓 Education & Achievements  
 - **Master's Degree** in Reservoir Engineering  
