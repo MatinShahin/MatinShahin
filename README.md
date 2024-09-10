@@ -9,13 +9,6 @@ Matin is a hard-working, passionate, fast learner and always eager to learn pers
 - **Top student** in Petroleum Reservoir Engineering  
 - **Ranked First** in Petroleum Drilling Engineering  
 
-## 🏆 Skills  
-- **Data Science & Analysis**: Data Visualization, Power BI, MATLAB, Python  
-- **AI & Machine Learning**: Algorithms, Data-Driven Modeling  
-- **Engineering**: Reservoir, Production, Petroleum Engineering  
-- **Software Proficiency**: MBAL, PVTi, Eclipse, StimCADE, PIPESIM, Saphir, IHS Welltest, Comsol Multiphysics, CMG  
-- **Personal Attributes**: Hardworking, Creative, Excellent Team Involvement, Mentoring, Coordination, and Communication Skills  
-
 ## 🔍 Research Interests  
 - Application of AI in Geo-Energy Engineering  
 - Data-Driven Modeling: Machine Learning and Deep Learning  
