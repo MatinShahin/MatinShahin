@@ -5,9 +5,11 @@ Matin is a hard-working, passionate, fast learner and always eager to learn pers
 ## 🎓 Education & Achievements  
 - **Master's Degree** in Reservoir Engineering  
 - **Bachelor's Degree** in Petroleum Engineering (Drilling Engineering)  
-- Selected as an **Elite Student**  
+- Selected as an **Elite and Talented Student**  
 - **Top student** in Petroleum Reservoir Engineering  
-- **Ranked First** in Petroleum Drilling Engineering  
+- **Ranked First** in Petroleum Drilling Engineering
+- Selected as a winner of the prestigious Digital Oil Field competition
+- Selected as one of the winners of the oil and gas well rehabilitation competition  
 
 ## 🔍 Research Interests  
 - Application of AI in Geo-Energy Engineering  
