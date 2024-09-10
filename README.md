@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MatinShahin
-  
-Matin is a hard-working, passionate, fast learner and always eager to learn person. He is currently working as a Senior Data Scientist | Senior Machine Learning Engineer | Research Data Scientist | Reservoir Technology Engineer and tries to develop his skills and make himself better every day. Also, Matin is interested in combining his skills in science and entrepreneurship to create innovative solutions to real-world problems and is always eager to explore new tools and technologies to enhance his skillset. Matin’s background and skills are summarized below:
+- Matin is a hard-working, passionate, fast learner and always eager to learn person. He is currently working as a Senior Data Scientist | Senior Machine Learning Engineer | Research Data Scientist | Reservoir Technology Engineer and tries to develop his skills and make himself better every day. Also, Matin is interested in combining his skills in science and entrepreneurship to create innovative solutions to real-world problems and is always eager to explore new tools and technologies to enhance his skillset. Matin’s background and skills are summarized below:
 •	Master's Degree Focused in Reservoir Engineering
 •	Bachelor's Degree Focused in Petroleum Engineering (Drilling Engineering)
 •	Being selected as an Elite Student
