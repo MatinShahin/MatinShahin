@@ -6,10 +6,10 @@ Matin is a hard-working, passionate, fast learner and always eager to learn pers
 - **Master's Degree** in Reservoir Engineering  
 - **Bachelor's Degree** in Petroleum Engineering (Drilling Engineering)  
 - Selected as an **Elite and Talented Student**  
-- **Top student** in Petroleum Reservoir Engineering  
+- **Top Student** in Petroleum Reservoir Engineering  
 - **Ranked First** in Petroleum Drilling Engineering
-- Selected as a winner of the prestigious Digital Oil Field competition
-- Selected as one of the winners of the oil and gas well rehabilitation competition  
+- Selected as a Winner of the Prestigious Digital Oil Field Competition
+- Selected as One of the Winners of the Oil and Gas Well Rehabilitation Competition  
 
 ## 🔍 Research Interests  
 - Application of AI in Geo-Energy Engineering  
@@ -29,7 +29,7 @@ Matin is a hard-working, passionate, fast learner and always eager to learn pers
 - Blockchain in Oil & Gas Industry  
 
 ## 📫 Contact Me  
-- How to reach me: Matin.shahin97@gmail.com
+- How to Reach Me: Matin.shahin97@gmail.com
 
 
 <!---
