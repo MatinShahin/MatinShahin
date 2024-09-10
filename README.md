@@ -2,7 +2,7 @@
 
 Matin is a hard-working, passionate, fast learner and always eager to learn person. He is currently working as a Senior Data Scientist | Senior Machine Learning Engineer | Research Data Scientist | Reservoir Technology Engineer and tries to develop his skills and make himself better every day. Also, Matin is interested in combining his skills in science and entrepreneurship to create innovative solutions to real-world problems and is always eager to explore new tools and technologies to enhance his skillset. 
 
-## 💼 Experience  
+## 🚀 Experience  
 
 Currently, I am working in several roles across different organizations:  
 
@@ -21,7 +21,7 @@ Currently, I am working in several roles across different organizations:
 - **Sahand University of Technology**  
   - Senior Researcher - Research Data Scientist  
 
-## 🎓 Education & Achievements  
+## 🎓🌟 Education & Achievements  
 - **Master's Degree** in Reservoir Engineering  
 - **Bachelor's Degree** in Petroleum Engineering (Drilling Engineering)  
 - Selected as an **Elite and Talented Student**  
