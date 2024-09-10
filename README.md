@@ -21,7 +21,7 @@ Currently, I am working in several roles across different organizations:
 - **Sahand University of Technology**  
   - Senior Researcher - Research Data Scientist  
 
-## 🎓🌟 Education & Achievements  
+## 🎓 Education & Achievements  
 - **Master's Degree** in Reservoir Engineering  
 - **Bachelor's Degree** in Petroleum Engineering (Drilling Engineering)  
 - Selected as an **Elite and Talented Student**  
@@ -47,7 +47,7 @@ Currently, I am working in several roles across different organizations:
 - Numerical Simulation  
 - Blockchain in Oil & Gas Industry  
 
-## 📫 Contact Me  
+## 📫 Contact   
 - How to Reach Me: Matin.shahin97@gmail.com
 
 
