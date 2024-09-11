@@ -47,8 +47,12 @@ Currently, I am working in several roles across different organizations:
 - Numerical Simulation  
 - Blockchain in Oil & Gas Industry  
 
-## 📫 Contact   
+## 🌐 Get in Touch & Explore My Research  
 - How to Reach Me: Matin.shahin97@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/matinshahin/)  
+- [Google Scholar](https://scholar.google.com/citations?user=2u84XQsAAAAJ&hl=en)  
+- [ResearchGate](https://www.researchgate.net/profile/Matin-Shahin)  
+  
 
 
 <!---
