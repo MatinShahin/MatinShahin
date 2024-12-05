@@ -11,7 +11,7 @@ Currently, I am working in several roles across different organizations:
   - Senior Data Scientist & Senior Machine Learning Engineer  
 
 - **Sharif University of Technology**  
-  - Research Assistant - Research Data Scientist | Reservoir Engineer  
+  - Postgraduate Researcher - Research Data Scientist | Reservoir Engineer  
 
 - **DrillAI Company**  
   - AI Team Lead  
@@ -19,7 +19,7 @@ Currently, I am working in several roles across different organizations:
   - AI Researcher  
 
 - **Sahand University of Technology**  
-  - Senior Researcher - Research Data Scientist  
+  - Postgraduate Researcher - Research Data Scientist  
 
 ## 🎓 Education & Achievements  
 - **Master's Degree** in Reservoir Engineering  
