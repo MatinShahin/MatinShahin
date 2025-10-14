@@ -27,6 +27,8 @@ Currently, I am working in several roles across different organizations:
 - Selected as an **Elite and Talented Student**  
 - **Top Student** in Petroleum Reservoir Engineering  
 - **Ranked First** in Petroleum Drilling Engineering
+- Scientific Reviewer of Energy Storage (Elsevier), Unconventional Resources (Elsevier), Petroleum (Elsevier), AI and Ethics (Springer Nature) and Hydrogeology (Springer Nature) Journals.
+- Scientific Code Reviewer of Journal of Geophysical Research: Machine Learning and Computation.
 - Selected as a Winner of the Prestigious Digital Oil Field Competition
 - Selected as One of the Winners of the Oil and Gas Well Rehabilitation Competition  
 
