@@ -6,18 +6,18 @@ Matin is a hard-working, passionate, fast learner and always eager to learn pers
 
 Currently, I am working in several roles across different organizations:  
 
-- **PEDEC Company**  
-  - Upstream AI & Digital Transformation Team Lead  
+- **DrillAI Company**  
+  - Head of Artificial Intelligence  
   - Senior Data Scientist & Senior Machine Learning Engineer  
+  - Lead AI Research Scientist    
 
 - **Sharif University of Technology**  
-  - Postgraduate Researcher - Research Data Scientist  
-
-- **DrillAI Company**  
-  - AI Team Lead  
+  - Postgraduate Researcher - Research Data Scientist
+ 
+- **PEDEC Company**  
+  - Principal Data Scientist  
   - Senior Data Scientist & Senior Machine Learning Engineer  
-  - AI Researcher  
-
+ 
 - **Sahand University of Technology**  
   - Postgraduate Researcher - Research Data Scientist  
 
