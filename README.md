@@ -7,6 +7,7 @@ Matin is a hard-working, passionate, fast learner and always eager to learn pers
 Currently, I am working in several roles across different organizations:  
 
 - **DrillAI Company**  
+  - Chief Technology Officer (CTO)
   - Head of Artificial Intelligence  
   - Senior Data Scientist & Senior Machine Learning Engineer  
   - Lead AI Research Scientist    
