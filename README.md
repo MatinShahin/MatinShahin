@@ -8,7 +8,7 @@ Currently, I am working in several roles across different organizations:
 
 - **DrillAI Company**  
   - Chief Technology Officer (CTO)
-  - Head of Artificial Intelligence  
+  - Chief AI Officer (CAIO) 
   - Senior Data Scientist & Senior Machine Learning Engineer  
   - Lead AI Research Scientist    
 
